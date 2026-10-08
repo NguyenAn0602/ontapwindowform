@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>Bai1_ServiceChargeCalculator</RootNamespace>
+    <AssemblyName>Bai1_ServiceChargeCalculator</AssemblyName>
+  </PropertyGroup>
+</Project>
